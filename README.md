@@ -1,4 +1,5 @@
 **SINR-Prediction-Calculator**
+
 A tool for predicting the SINR (Signal-to-Interference-plus-Noise Ratio) in wireless communication systems, based on received signal power, interference power, and bandwidth.
 
 **Overview**
