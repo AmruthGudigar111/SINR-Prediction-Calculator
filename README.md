@@ -28,9 +28,20 @@ The SINR is calculated using the following formula:
 
 **Installation**
 Clone this repository and install any necessary dependencies.
+```
 git clone https://github.com/AmruthGudigar111/SINR-Prediction-Calculator.git
 
 cd SINR-Prediction-Calculator
-pip install -r requirements.txt
+pip install -r requirements.
+```
 
+Alternative Site: https://amruthgudigar.blogspot.com/2024/09/snr-and-sinr-prediction-calculator-in.html
 
+---
+
+## 🙋 Author
+
+Developed with ❤️ by  **Amruth Gudigar**  
+🔗 [Portfolio](https://amruthgudigar111.github.io/Portfolio/) | 💼 [LinkedIn](https://www.linkedin.com/in/amruth-gudigar/)
+
+---
